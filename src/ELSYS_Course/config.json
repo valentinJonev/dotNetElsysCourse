@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "ELSYS_Course"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-ELSYS_Course-e57f1d7e-adb3-4dc7-b1c0-def727021fc0;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
